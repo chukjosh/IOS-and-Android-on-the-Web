@@ -1,9 +1,11 @@
 # 📱 iOS & Android on the Web
 
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://iosandroidweb.vercel.app)
+[![Built with](https://img.shields.io/badge/Built%20with-Next.js%20|%20TypeScript%20|%20Tailwind%20|%20Framer-black?style=for-the-badge)](https://github.com/chukjosh/IOS-and-Android-on-the-Web)
 [![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
+[![Built with Love](https://img.shields.io/badge/Built%20with-❤️-red?style=for-the-badge)](https://github.com/chukjosh/IOS-and-Android-on-the-Web)
 
 > Experience authentic iOS and Android interfaces built entirely with modern web technologies
 
@@ -57,7 +59,7 @@ IOS-and-Android-on-the-Web is a web-based simulation that lets you experience bo
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/chukhosh/IOS-and-Android-on-the-Web.git
+   git clone https://github.com/chukjosh/IOS-and-Android-on-the-Web.git
    cd IOS-and-Android-on-the-Web
    ```
 
