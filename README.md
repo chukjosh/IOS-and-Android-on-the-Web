@@ -5,7 +5,7 @@
 [![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
-[![Built with Love](https://img.shields.io/badge/Built%20with-❤️-red?style=for-the-badge)](https://github.com/chukjosh/IOS-and-Android-on-the-Web)
+
 
 > Experience authentic iOS and Android interfaces built entirely with modern web technologies
 
@@ -202,6 +202,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  <p>Built with ❤️ using modern web technologies</p>
   <p>⭐ Star this repo if you found it helpful!</p>
 </div>
