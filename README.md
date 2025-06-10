@@ -8,7 +8,7 @@
 
 > Experience authentic iOS and Android interfaces built entirely with modern web technologies
 
-A pixel-perfect recreation of iOS and Android mobile interfaces that runs in your browser. Built with Next.js, TypeScript, Tailwind CSS, and Framer Motion for smooth animations and interactions.
+IOS-and-Android-on-the-Web is a web-based simulation that lets you experience both iOS and Android interfaces directly in your browser. Built with Next.js, TypeScript, Tailwind CSS, and Framer Motion for smooth animations and interactions.
 
 ## 🌟 Features
 
